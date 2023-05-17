@@ -1,0 +1,109 @@
+15/5/23
+• Interview Points 
+Name
+Designation 
+Experience 
+Technology 
+Would you like to know any thing apart from this ?
+
+• Digital presence
+Active LinkedIN
+Prompt Engineering 
+How the exactly web server work ?
+
+Client side rendering 
+Server side rendering 
+Crolling 
+Title description keyword 
+Meta Tag are caught by google 
+Search engine optimization
+ (Server side)
+Admin panel client side rendering ,offline (Client side)
+Browser base mobile application
+Tensor flow for Machine Learning 
+Viro react ER VR 
+BlockChain 
+Js is became more mature 
+Dynamic memory used by Js and python (data science and Django )
+Light house
+Blocking time must be Zero
+Cumulative  Layout Shift ()Speed index is for loading time 
+Accessibility :Voice Message (Label tag) Eg blind People can access it easily or not .To make use at ease 
+Best practice Time Complexity 
+SEO Meta tag 
+Performance  
+Progressive web app 
+Run in administrator cmd 
+Downloading Node js with chocolatey 
+Install cmd.exe 
+Download node js in cmd prompt
+Download git 
+Download Vscode 
+
+16/5/23
+• Communication 
+Standing ,Hand Posture
+Eye contacts
+Learning : Visualization , 
+Take permission for every thing during interview session 
+
+For permission of leave :- Contact@thespecialcharacter.com
+Contact :- 7600096432
+• Linkedin profile buildup
+Short and creative 
+Internship->probation->permanent 
+
+set the cmd in vs code terminal to run the terminal of vscode as command prompt set as default  
+
+• Git
+Team foundation server 
+VFS,TFS
+Git follow distributed architecture 
+Pascal case , snake case ,camel case used during variable creation 
+Open terminal short key: ctrl+`;
+To change drive use : cd D:
+Set the terminal to command prompt as default 
+Git init 
+cd .. is to get one step backward
+stagingserver : duplicate server as original server for testing 
+
+git add filename -> marked the unmarked file
+git status -> display the state of working directory and staging area 
+git restore ->deleted file is completly restored 
+git rm --cached -> removes the copy of the file from the index / staging-area, without touching the working tree copy.
+
+staging server ->local server ->remote server 
+
+git commit –m “added text.txt” -> upload to local server 
+git.log ->show all the status of the logged detail of local server 
+git diff -> use to check the difference ;
+
+git init-> git status -> git add ->git commit ->git log ;
+git config --global core.autocrlf true
+git remote add origin https://github.com/special-char/ldrp_morning_internship.git
+git remote-v -> print the list of bookmarked repository names and additionally, the corresponding repository URL
+git remote remove origin -> delete all marked repository
+https://collabedit.com/qwp9c
+
+
+17/5/23
+
+Always use underscore in name generation in any format like viraj_chauhan not to use - or 
+
+git add . ->adds a change in the working directory to the staging area.
+git commit -m "commit status" ->used to save your changes to the local repository
+git push -> is used to upload local repository content to a remote repository.
+git pull -> used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+git checkout ->lets you navigate between the branches created by git branch 
+git branch ->to create the branch 
+git switch -> it is used to switch the branch 
+git commit -am ->skipping the staging area
+git merge origin/main
+git branch -c (name of branch)
+
+smart commit gira 
+
+git push -u for first push
+
+git push -> branch -> pull req->merge -> modify -> just push 
+squash(compress) & Rebase(complete detail of branch) merge 

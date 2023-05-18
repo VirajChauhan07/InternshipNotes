@@ -110,4 +110,79 @@ squash(compress) & Rebase(complete detail of branch) merge
 
 18/5/23
 
+Class of Communication 
+-> Consistency should be maintain 
+->LinkedIN give brain Informative
+->Make a list of todo
+->Time Management
+->Let the People win argument 
+->priority
+->Share Knowledge to other
+->learn to say No 
+->Single Task at a time 
+
+H.W 25 use of tie? 
+1. to hang the things
+2. to hold the criminal by tieing him 
+3. used to save the life by tie 
+4. used to as temprory cleaner cloth
+5. to lift the thing with are not possibly touch 
+6. to show some magic trick using tie 
+7. to be used for cheating purpose 
+8. Belt: Use a tie as a makeshift belt when you don't have one available.
+9. Headband: Wrap a tie around your head to keep your hair in place or add a stylish touch to your hairstyle.
+10. Camera strap: Attach a tie to your camera as a unique and personalized strap.
+11. Bag handle: Use a tie as a replacement handle for a bag or suitcase.
+12. Curtain tiebacks: Use a tie to hold back curtains or drapes in a decorative way.
+13. Napkin ring: Wrap a tie around folded napkins to create a stylish and functional napkin ring.
+14. Keychain: Attach keys to a tie for a quirky and distinctive keychain.
+15. Guitar strap: Convert a tie into a guitar strap for a unique musical accessory.
+16. Dog leash: Use a tie as a makeshift leash for a small dog in a pinch.
+17. Cord organizer: Wrap cords and cables with a tie to keep them neat and tangle-free.
+18. Plant support: Use a tie to secure plants to stakes or trellises for support.
+19. DIY bracelet: Cut a tie into smaller sections and tie them around your wrist as a fashionable bracelet.
+20. Bookmarker: Mark your page in a book by using a tie as a makeshift bookmark.
+21. Decorative bow: Tie a decorative bow with a tie to embellish gift boxes or add flair to home decor.
+22. Luggage identifier: Wrap a brightly colored tie around the handle of your suitcase to easily spot it at the airport.
+23. Fashion accessory: Hang a tie around your neck without tying it for a fashionable and trendy accessory.
+24. Wrist support: Use a tie as a makeshift wrist support when engaging in physical activities or sports.
+
 NextJs Installation process
+
+React is a UI library 
+Virtual DOM (Document Object Model)
+Parallel process
+DOM render in js when we change any element 
+so fast in batch read & write 
+learn once write everywhere 
+
+js has power to split (eg such as about page contact page )
+as per requirement we scroll we get the data 
+Next.js framework of react.js 
+react is 100% clientside or 100%server side
+next.js support both 
+
+Github by google 
+GUI challenges 
+Material UI 
+CSS is now developed more use Tailwind.CSS
+
+NPM(node packet manger )
+why use->integrated url link whole load on project which reduce performance NPM bring only required component 
+Bundle propotional to  performance 
+
+nvm is use to maintain version of node 
+ESlint is used to show the error of js
+
+git pull or undo (remove all the pull request)
+
+git pull
+npm install yarn
+npm run developed
+
+class is a reserve work
+Tailwind CSS
+
+about->page.jsx
+
+

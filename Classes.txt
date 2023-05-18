@@ -107,3 +107,7 @@ git push -u for first push
 
 git push -> branch -> pull req->merge -> modify -> just push 
 squash(compress) & Rebase(complete detail of branch) merge 
+
+18/5/23
+
+NextJs Installation process
